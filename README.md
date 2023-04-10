@@ -54,10 +54,11 @@ Features Implemented
 
 ## Mobile View
 
-<img width="326" alt="Screenshot 2023-01-10 at 11 55 07 AM" src="https://user-images.githubusercontent.com/55450843/211477187-50e06894-ea1f-4293-b75d-b7f314676dac.png">
+![login](https://user-images.githubusercontent.com/55450843/230825968-5e66e2f5-8fd7-48b8-8ca9-70782ca4d179.jpg)
 
-<img width="332" alt="Screenshot 2023-01-10 at 11 55 38 AM" src="https://user-images.githubusercontent.com/55450843/211477258-8db6d1d2-19df-487b-91a3-05d8c1ad6593.png">
+![sellerform](https://user-images.githubusercontent.com/55450843/230825505-ac004af6-0004-4d87-baf0-8c109434cd8d.jpg)
 
+![buyer_ss](https://user-images.githubusercontent.com/55450843/230825454-31e79c9a-9eed-45dc-a3a6-18a719495f12.jpg)
 
 <img width="332" alt="Screenshot 2023-01-10 at 11 56 17 AM" src="https://user-images.githubusercontent.com/55450843/211477353-6b783742-5e59-41e0-b8e8-830933a6811b.png">
 
