@@ -1,5 +1,77 @@
-# Subbu Shop Applications Images
+# **B2B E-commerce App**
 
+**Overview:**
+Our B2B E-commerce App is designed to empower sellers to efficiently manage their products and engage with customers through customizable notifications. Available on both iOS and Android, this app provides a seamless and robust experience for businesses looking to enhance their sales and customer engagement.
+
+**Key Features:**
+
+1. **Product Management:**
+   - Sellers can easily add, update, and monitor their products.
+   - Real-time inventory tracking and management.
+
+2. **Customizable Notifications:**
+   - Notify customers about special offers and promotions.
+   - Customizable notifications targeted at selected user groups.
+
+3. **Local Notifications:**
+   - Utilize local notifications to keep users informed about updates and promotions even when the app is not actively in use.
+
+4. **Map Access:**
+   - Integrated map functionalities to locate and navigate to physical stores or warehouses.
+   - Geolocation services to provide location-based offers and notifications.
+
+5. **Search and Deep Linking:**
+   - Advanced search capabilities for quick product discovery.
+   - Deep linking to direct users to specific products or categories within the app.
+
+6. **Authentication and Security:**
+   - Secure user authentication using Firebase.
+   - Robust security measures to protect user data and transactions.
+
+7. **Order Management:**
+   - Streamlined order processing and tracking.
+   - Automated order status updates for both sellers and buyers.
+
+8. **Payment Integration:**
+   - Secure payment gateways supporting multiple payment methods.
+   - Integration with popular payment providers for seamless transactions.
+
+9. **User Reviews and Ratings:**
+   - Allow customers to leave reviews and ratings for products.
+   - Sellers can respond to customer feedback and build trust.
+
+10. **Analytics and Reporting:**
+    - Comprehensive analytics dashboard for sellers to monitor sales performance.
+    - Detailed reports on product performance, customer behavior, and more.
+
+11. **Wishlist and Favorites:**
+    - Customers can save products to a wishlist for future purchase.
+    - Easy access to favorite items.
+
+12. **Multi-Language and Multi-Currency Support:**
+    - Support for multiple languages and currencies to cater to a global audience.
+    - Automatic currency conversion based on user location.
+
+13. **Promotions and Discounts:**
+    - Create and manage discount codes and promotional offers.
+    - Track the effectiveness of promotions with detailed analytics.
+
+**Technologies Used:**
+- **Frontend:** Developed using Flutter for cross-platform compatibility on iOS and Android.
+- **Backend:** Powered by NestJS framework with TypeScript.
+- **Database:** PostgreSQL for data storage and management.
+- **Cache:** Redis for caching mechanisms.
+- **Authentication:** Firebase for secure user authentication.
+
+**Additional Features:**
+- Local notifications for timely updates.
+- Map access for store location and navigation.
+- Deep linking for enhanced user experience and navigation.
+
+Our B2B E-commerce App is designed to streamline the seller experience, providing all the tools needed to manage products, engage customers, and drive sales. With a focus on performance, security, and usability, this app is the perfect solution for businesses looking to thrive in the competitive e-commerce landscape.
+
+
+# Technical Info
 
 | |  | |
 | ------ | ------ |  -- |
